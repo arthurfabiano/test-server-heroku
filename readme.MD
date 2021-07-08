@@ -1,3 +1,3 @@
-# Série criada no DevPleno para testar provedores/servidores:
+# Teste Servidor de Hospedagem
 
-- Umbler: https://www.youtube.com/watch?v=G54spXDu85A
+- Umbler: Arthur Fabiano<arthur@tecnosisweb.com.br>
